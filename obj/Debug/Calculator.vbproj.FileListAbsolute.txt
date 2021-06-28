@@ -1,0 +1,11 @@
+E:\Visual Basic\Calculator\bin\Debug\Calculator.exe.config
+E:\Visual Basic\Calculator\bin\Debug\Calculator.exe
+E:\Visual Basic\Calculator\bin\Debug\Calculator.pdb
+E:\Visual Basic\Calculator\bin\Debug\Calculator.xml
+E:\Visual Basic\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\Visual Basic\Calculator\obj\Debug\Calculator.Resources.resources
+E:\Visual Basic\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+E:\Visual Basic\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Calculator\obj\Debug\Calculator.exe
+E:\Visual Basic\Calculator\obj\Debug\Calculator.xml
+E:\Visual Basic\Calculator\obj\Debug\Calculator.pdb
